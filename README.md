@@ -1,6 +1,6 @@
 # SYS(See You Soon)
 
-Here I've built an INSTAGRAM clone with different UI and functionalities. I've used Android Studio and code is written in JAVA and XML. Firebase Services are being used for the Authentication, database management, and Database Storage.
+Here I've built an INSTAGRAM clone with different UI and functionalities. I've used Android Studio and code is written in JAVA and XML. Firebase Services are being used for the Authentication, database management, and Database Storage. Right!
 
 We can share our posts, like, and comment on the other's post as well.
 
